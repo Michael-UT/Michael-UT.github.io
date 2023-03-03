@@ -46,9 +46,8 @@ h1 {
 }
 #smallDetail {
     font-family: "Georgia";
-    /* background-color: gray; */
     color: black;
-    font-size: 6px;
+    font-size: 8px;
 }
 #image {
   display: block;
