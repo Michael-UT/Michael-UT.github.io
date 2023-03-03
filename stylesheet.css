@@ -11,7 +11,7 @@ h1 {
 
 /* selects all elements of the wrapper class */
 .wrapper {
-    /* there are some built in colors like lightgray, 
+    /* there are some built in colors like lightgray,
         or you can use hex codes like #ffffff */
     background: lightgray;
 
@@ -29,4 +29,12 @@ h1 {
 /* selects the element with id = adjective */
 #adjective {
     font-family: "Comic Sans MS";
+}
+
+/* selects the element with id = adjective */
+#lightHeader {
+    font-family: "Segoe UI Light";
+    background-color: lightgrey;
+    color: black;
+
 }
