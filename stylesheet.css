@@ -32,10 +32,6 @@ h1 {
     /* padding is the internal spacing of this element */
     padding: 4px;
 }
-a:hover {
-  color: orange;
-}
-
 
 /* selects the element with id = adjective */
 #adjective {
@@ -47,4 +43,17 @@ a:hover {
     font-family: "Georgia";
     /* background-color: gray; */
     color: black;
+}
+#image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 8px ridge black;
+  padding: 5px;
+}
+a {
+  color: blue;
+}
+a:hover {
+  color: orange;
 }
