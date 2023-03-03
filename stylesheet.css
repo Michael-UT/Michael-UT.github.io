@@ -45,7 +45,6 @@ h1 {
 /* selects the element with id = adjective */
 #lightHeader {
     font-family: "Georgia";
-    background-color: gray;
+    /* background-color: gray; */
     color: black;
-
 }
