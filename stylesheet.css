@@ -21,6 +21,17 @@ h1 {
     /* padding is the internal spacing of this element */
     padding: 24px;
 }
+.resumeSection {
+    /* there are some built in colors like lightgray,
+        or you can use hex codes like #ffffff */
+    background: white;
+
+    /* margin is the external spacing between this element and others */
+    margin: 12px;
+
+    /* padding is the internal spacing of this element */
+    padding: 12px;
+}
 
 .salmon {
     color: salmon;
@@ -33,8 +44,8 @@ h1 {
 
 /* selects the element with id = adjective */
 #lightHeader {
-    font-family: "Segoe UI Light";
-    background-color: lightgrey;
+    font-family: "Georgia";
+    background-color: gray;
     color: black;
 
 }
