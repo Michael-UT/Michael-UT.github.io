@@ -16,10 +16,10 @@ h1 {
     background: lightgray;
 
     /* margin is the external spacing between this element and others */
-    margin: 24px;
+    margin: 12px;
 
     /* padding is the internal spacing of this element */
-    padding: 24px;
+    padding: 12px;
 }
 .resumeSection {
     /* there are some built in colors like lightgray,
@@ -27,15 +27,12 @@ h1 {
     background: white;
 
     /* margin is the external spacing between this element and others */
-    margin: 12px;
+    margin: 4px;
 
     /* padding is the internal spacing of this element */
-    padding: 12px;
+    padding: 4px;
 }
 
-.salmon {
-    color: salmon;
-}
 
 /* selects the element with id = adjective */
 #adjective {
