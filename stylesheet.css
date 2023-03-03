@@ -32,6 +32,9 @@ h1 {
     /* padding is the internal spacing of this element */
     padding: 4px;
 }
+a:hover {
+  color: orange;
+}
 
 
 /* selects the element with id = adjective */
